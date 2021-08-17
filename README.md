@@ -11,6 +11,10 @@ torch.layout #存储方式
 torch.Tensor(data) 
 
 基于工厂模式实现（tensor类型为原始data的类型）
+```
+> torch.get_default_dtype()
+torch.float32
+```
 torch.tensor(data)
 torch.as_tensor(data)
 torch.from_numpy(data)
