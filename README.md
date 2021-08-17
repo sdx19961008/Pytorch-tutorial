@@ -5,7 +5,7 @@ torch.dtype
 torch.device
 torch.layout #存储方式
 ```
-## Creating Tensors Using Data
+### Creating Tensors Using Data
 
 基于构造器实现（将tensor类型改为默认的float32） 
 torch.Tensor(data) 
@@ -31,7 +31,7 @@ tensor([1, 2, 3], dtype=torch.int32)
 ```
 ![](https://github.com/sdx19961008/Pytorch-tutorial/blob/main/tensor.png)
 
-## Creation Options Without Data
+### Creation Options Without Data
 ```
 > print(torch.zeros([2,2]))
 tensor([
