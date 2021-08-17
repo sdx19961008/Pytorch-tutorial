@@ -1,1 +1,6 @@
-
+# Tensor Attributes
+'''
+torch.dtype
+torch.device
+torch.layout
+'''
