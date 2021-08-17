@@ -29,7 +29,7 @@ tensor([1, 2, 3], dtype=torch.int32)
 tensor([1, 2, 3], dtype=torch.int32)
 tensor([1, 2, 3], dtype=torch.int32)
 ```
-
+![](https://github.com/sdx19961008/Pytorch-tutorial/blob/main/tensor.png)
 
 ## Creation Options Without Data
 ```
